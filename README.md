@@ -37,7 +37,6 @@ RSA, Argon2id and post-quantum **ML-KEM**. CLI, terminal UI, desktop app and an
 ### 🔬 Currently exploring
 
 - Low-level emulation and console hardware (Xbox 360 Xenon, PS2 + RP2040)
-- Writing an OS from scratch: bootloader and kernel
 - Homelab: self-hosted services, proxies and local LLMs
 
 <div align="center">
