@@ -11,11 +11,7 @@ console mods and emulators. Aiming for electronics + physics.
 
 ---
 
-### 🔨 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔨 Featured project
 
 #### [🔐 easylock](https://github.com/zlixas/easylock)
 A cryptography toolkit written **from scratch in Rust** with zero dependencies: AES, ChaCha20, Curve25519,
@@ -23,19 +19,6 @@ RSA, Argon2id and post-quantum **ML-KEM**. CLI, terminal UI, desktop app and an
 [offline web app](https://zlixas.github.io/easylock/) that share one encrypted file format.
 
 `Rust` `WebAssembly` `Tauri` `post-quantum`
-
-</td>
-<td width="50%" valign="top">
-
-#### [🛰️ myvpn](https://github.com/zlixas/myvpn)
-A personal WireGuard VPN between a VPS and a Debian desktop. No passwords: the server shows two
-short codes and a custom pairing protocol does the rest. One-command install.
-
-`Go` `WireGuard` `networking`
-
-</td>
-</tr>
-</table>
 
 ### 🧰 What I work with
 
