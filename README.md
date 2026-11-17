@@ -42,7 +42,7 @@ RSA, Argon2id and post-quantum **ML-KEM**. CLI, terminal UI, desktop app and an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zlixas&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlixas&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+<img height="165" src="profile/stats.svg" alt="GitHub stats">
+<img height="165" src="profile/top-langs.svg" alt="Top languages">
 
 </div>
